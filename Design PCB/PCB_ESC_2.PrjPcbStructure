@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=Buck_5V.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Buck_5V.SchDoc|FileName=current_sensor.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Buck_5V.SchDoc|FileName=gateDriverA.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Buck_5V.SchDoc|FileName=gateDriverB.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Buck_5V.SchDoc|FileName=gateDriverC.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Buck_5V.SchDoc|FileName=mainBoard.SchDoc|SheetNumber=1
