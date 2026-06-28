@@ -1,0 +1,7 @@
+../Core/Src/foc.c:29:13:LUT_SinCos_16bit	1
+../Core/Src/foc.c:38:13:SVPWM_Compute	13
+../Core/Src/foc.c:64:6:FOC_Init	2
+../Core/Src/foc.c:92:13:FOC_PlayMusic	6
+../Core/Src/foc.c:131:13:FOC_Align	3
+../Core/Src/foc.c:172:13:FOC_OpenLoop	11
+../Core/Src/foc.c:236:6:FOC_Routine	5
